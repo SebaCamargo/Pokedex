@@ -1,4 +1,12 @@
 
+![imagen 1](https://github.com/user-attachments/assets/8e9aca27-cff3-4a59-8b2e-717d6b99281d)
+
+![imagen2](https://github.com/user-attachments/assets/f4a544b7-c5f6-48d8-998e-6f74f17f9d3c)
+
+![imagen3](https://github.com/user-attachments/assets/afb7457a-9846-4cb3-b02e-54ecfdb671ab)
+
+![imagen4](https://github.com/user-attachments/assets/adaf8690-9820-4cdc-87ab-6c79a5d27fe6)
+
 
 Objetivo: O objetivo da página criada é criar uma pokedex onde todos os pokémons possam ser mostrados, ter a possibilidade de procurar pelo pokémon e poder acessar as informações dele
 
